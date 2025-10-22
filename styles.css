@@ -604,6 +604,12 @@ section {
     width: 20px;
 }
 
+.social {
+    margin-top: 5px;
+    display: flex;
+    gap: 1rem;
+}
+
 .social-links {
     display: flex;
     gap: 1rem;
